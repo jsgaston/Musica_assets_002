@@ -5,7 +5,7 @@ VALID_EXTENSIONS = [".m4a", ".mp3", ".wav", ".flac", ".ogg", ".aac"]
 
 # Reemplaza con tu propio usuario y repo si es necesario:
 GITHUB_USER = "jsgaston"
-GITHUB_REPO = "Musica_assets_004"
+GITHUB_REPO = "Musica_assets_002"
 GITHUB_BRANCH = "main"
 
 RAW_BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/"
