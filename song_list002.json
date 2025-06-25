@@ -1,0 +1,992 @@
+[
+  {
+    "title": "El León",
+    "artist": "Ayax y Prok & Tavo Rose",
+    "album": "Juglar del Siglo XXI",
+    "duration": 138,
+    "genre": "Hip-hop/Rap",
+    "year": "2022-02-25T12:00:00Z",
+    "filename": "04 El León.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20El%20León.m4a"
+  },
+  {
+    "title": "Around the World / Harder, Better, Faster, Stronger (Live)",
+    "artist": "Daft Punk",
+    "album": "Alive 2007",
+    "duration": 342,
+    "genre": "Electronic",
+    "year": "2007-10-15T07:00:00Z",
+    "filename": "05 Around the World _ Harder, Better.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Around%20the%20World%20_%20Harder,%20Better.m4a"
+  },
+  {
+    "title": "Hey Moon",
+    "artist": "John Maus",
+    "album": "We Must Become the Pitiless Censors of Ourselves",
+    "duration": 248,
+    "genre": "Electronic",
+    "year": "2011-06-28T12:00:00Z",
+    "filename": "04 Hey Moon.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Hey%20Moon.m4a"
+  },
+  {
+    "title": "Walkabout (w. Noah Lennox)",
+    "artist": "Atlas Sound",
+    "album": "Logos",
+    "duration": 238,
+    "genre": "Alternative",
+    "year": "2009-10-19T07:00:00Z",
+    "filename": "03 Walkabout (w. Noah Lennox).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Walkabout%20(w.%20Noah%20Lennox).m4a"
+  },
+  {
+    "title": "A Day At the Races (feat. Percy P & Big Daddy Kane) [feat. Percy P & Big Daddy Kane]",
+    "artist": "Jurassic 5",
+    "album": "Power In Numbers",
+    "duration": 242,
+    "genre": "Hip-hop/Rap",
+    "year": "2002-01-01T12:00:00Z",
+    "filename": "06 A Day At the Races (feat. Percy P.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/06%20A%20Day%20At%20the%20Races%20(feat.%20Percy%20P.m4a"
+  },
+  {
+    "title": "Moving to New York",
+    "artist": "The Wombats",
+    "album": "A Guide to Love, Loss & Desperation",
+    "duration": 210,
+    "genre": "Alternative",
+    "year": "2007-11-05T08:00:00Z",
+    "filename": "03 Moving to New York.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Moving%20to%20New%20York.m4a"
+  },
+  {
+    "title": "Alive",
+    "artist": "Beastie Boys",
+    "album": "Anthology: The Sounds of Science",
+    "duration": 228,
+    "genre": "Hip-hop/Rap",
+    "year": "1999-10-19T12:00:00Z",
+    "filename": "1-19 Alive.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-19%20Alive.m4a"
+  },
+  {
+    "title": "Nevertheless",
+    "artist": "The Brian Jonestown Massacre",
+    "album": "Bravery Repetition & Noise",
+    "duration": 212,
+    "genre": "Psychedelic",
+    "year": "2001-10-16T12:00:00Z",
+    "filename": "05 Nevertheless.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Nevertheless.m4a"
+  },
+  {
+    "title": "La Estanquera de Saigón (feat. Habeas Corpus)",
+    "artist": "Los Chikos del Maíz",
+    "album": "La Estanquera de Saigón",
+    "duration": 248,
+    "genre": "Hip-hop/Rap",
+    "year": "2014-11-25T12:00:00Z",
+    "filename": "04 La Estanquera de Saigón (feat. Ha.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20La%20Estanquera%20de%20Saigón%20(feat.%20Ha.m4a"
+  },
+  {
+    "title": "You Know What I Mean",
+    "artist": "Cults",
+    "album": "Cults",
+    "duration": 150,
+    "genre": "Alternative",
+    "year": "2011-06-07T12:00:00Z",
+    "filename": "03 You Know What I Mean.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20You%20Know%20What%20I%20Mean.m4a"
+  },
+  {
+    "title": "Blood In Blood Out",
+    "artist": "Jedi Mind Tricks",
+    "album": "Visions of Gandhi",
+    "duration": 246,
+    "genre": "Hip-hop/Rap",
+    "year": "2003-08-26T12:00:00Z",
+    "filename": "03 Blood In Blood Out.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Blood%20In%20Blood%20Out.m4a"
+  },
+  {
+    "title": "La Góndola",
+    "artist": "Ayax y Prok & Blasfem",
+    "album": "Juglar del Siglo XXI",
+    "duration": 182,
+    "genre": "Hip-hop/Rap",
+    "year": "2022-02-11T12:00:00Z",
+    "filename": "03 La Góndola.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20La%20Góndola.m4a"
+  },
+  {
+    "title": "Pufo En el Banko",
+    "artist": "Manolo Kabezabolo",
+    "album": "2001 la Odisea Va Despazio",
+    "duration": 87,
+    "genre": "Punk",
+    "year": "2001-01-29T12:00:00Z",
+    "filename": "04 Pufo En el Banko.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Pufo%20En%20el%20Banko.m4a"
+  },
+  {
+    "title": "No Milk Today (2003 Remastered Version)",
+    "artist": "Herman's Hermits",
+    "album": "The Very Best of Herman's Hermits (Deluxe Edition)",
+    "duration": 173,
+    "genre": "Pop",
+    "year": "1967-02-03T12:00:00Z",
+    "filename": "1-17 No Milk Today (2003 Remastered.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-17%20No%20Milk%20Today%20(2003%20Remastered.m4a"
+  },
+  {
+    "title": "If I Had a Tail",
+    "artist": "Queens of the Stone Age",
+    "album": "…Like Clockwork",
+    "duration": 295,
+    "genre": "Rock",
+    "year": "2013-05-31T07:00:00Z",
+    "filename": "04 If I Had a Tail.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20If%20I%20Had%20a%20Tail.m4a"
+  },
+  {
+    "title": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "duration": 234,
+    "genre": "Hip-hop/Rap",
+    "year": "2015-03-15T12:00:00Z",
+    "filename": "03 King Kunta.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20King%20Kunta.m4a"
+  },
+  {
+    "title": "If I Get Locked Up (feat. Eminem & Dr. Dre)",
+    "artist": "Funk Flex & Big Kap",
+    "album": "The Tunnel",
+    "duration": 220,
+    "genre": "Hip-hop/Rap",
+    "year": "1999-01-01T12:00:00Z",
+    "filename": "04 If I Get Locked Up (feat. Eminem.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20If%20I%20Get%20Locked%20Up%20(feat.%20Eminem.m4a"
+  },
+  {
+    "title": "Anemone",
+    "artist": "The Brian Jonestown Massacre",
+    "album": "The Cafe Mambo Ibiza EP's - Selected By Andy Cato, Pt. 2 - EP",
+    "duration": 334,
+    "genre": "Dance",
+    "year": "1996-06-18T12:00:00Z",
+    "filename": "03 Anemone.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Anemone.m4a"
+  },
+  {
+    "title": "Gran Torino",
+    "artist": "Lírico",
+    "album": "Un Antes y un Después (Deluxe Edition)",
+    "duration": 329,
+    "genre": "Urbano latino",
+    "year": "2012-12-18T12:00:00Z",
+    "filename": "1-15 Gran Torino.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-15%20Gran%20Torino.m4a"
+  },
+  {
+    "title": "No Pedimos Cita",
+    "artist": "Jarfaiter & Marku",
+    "album": "No Soy Nadie",
+    "duration": 171,
+    "genre": "Rap",
+    "year": "2024-01-26T12:00:00Z",
+    "filename": "04 No Pedimos Cita.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20No%20Pedimos%20Cita.m4a"
+  },
+  {
+    "title": "Mi Realidad",
+    "artist": "Lori Meyers",
+    "album": "20 Años, 21 Canciones",
+    "duration": 193,
+    "genre": "Rock",
+    "year": "2010-01-01T12:00:00Z",
+    "filename": "1-12 Mi Realidad.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-12%20Mi%20Realidad.m4a"
+  },
+  {
+    "title": "Somebody to Love (Stereo Version)",
+    "artist": "Jefferson Airplane",
+    "album": "Pure... Movies",
+    "duration": 176,
+    "genre": "Rock",
+    "year": "1967-02-01T12:00:00Z",
+    "filename": "1-09 Somebody to Love (Stereo Versio.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-09%20Somebody%20to%20Love%20(Stereo%20Versio.m4a"
+  },
+  {
+    "title": "Comancheria",
+    "artist": "Los Chikos del Maíz",
+    "album": "Comancheria",
+    "duration": 208,
+    "genre": "Hip-hop/Rap",
+    "year": "2019-10-04T12:00:00Z",
+    "filename": "04 Comancheria.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Comancheria.m4a"
+  },
+  {
+    "title": "Flagpole Sitta",
+    "artist": "Magnificent Tracers",
+    "album": "Extreme Sports",
+    "duration": 210,
+    "genre": "Rock",
+    "year": "1999-06-29T12:00:00Z",
+    "filename": "04 Flagpole Sitta.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Flagpole%20Sitta.m4a"
+  },
+  {
+    "title": "Días de Escuela",
+    "artist": "Asfalto",
+    "album": "Asfalto",
+    "duration": 397,
+    "genre": "Pop",
+    "year": "2004-04-17T12:00:00Z",
+    "filename": "04 Días de Escuela.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Días%20de%20Escuela.m4a"
+  },
+  {
+    "title": "El Iceberg",
+    "artist": "Ayax y Prok & Blackstone",
+    "album": "Juglar del Siglo XXI",
+    "duration": 135,
+    "genre": "Hip-hop/Rap",
+    "year": "2022-02-25T12:00:00Z",
+    "filename": "05 El Iceberg.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20El%20Iceberg.m4a"
+  },
+  {
+    "title": "Yours (feat. O.C.)",
+    "artist": "Big L",
+    "album": "The Danger Zone (Deluxe Edition) [Remastered]",
+    "duration": 250,
+    "genre": "Hip-hop/Rap",
+    "year": "2011-05-31T12:00:00Z",
+    "filename": "04 Yours (feat. O.C.).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Yours%20(feat.%20O.C.).m4a"
+  },
+  {
+    "title": "Bella Ciao",
+    "artist": "Alexandrov Ensemble",
+    "album": "The Definitive Anthology",
+    "duration": 157,
+    "genre": "Classical",
+    "year": "2001-01-01T12:00:00Z",
+    "filename": "1-18 Bella Ciao.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-18%20Bella%20Ciao.m4a"
+  },
+  {
+    "title": "Dirty Laundry",
+    "artist": "Danny Brown",
+    "album": "uknowhatimsayin¿",
+    "duration": 184,
+    "genre": "Hip-hop/Rap",
+    "year": "2019-10-04T12:00:00Z",
+    "filename": "03 Dirty Laundry.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Dirty%20Laundry.m4a"
+  },
+  {
+    "title": "So Payaso",
+    "artist": "Extremoduro",
+    "album": "Agila",
+    "duration": 281,
+    "genre": "Alternativa y rock en español",
+    "year": "1996-02-23T08:00:00Z",
+    "filename": "04 So Payaso.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20So%20Payaso.m4a"
+  },
+  {
+    "title": "Ni**as in Paris",
+    "artist": "JAY-Z & Kanye West",
+    "album": "Watch the Throne (Deluxe)",
+    "duration": 219,
+    "genre": "Hip-hop/Rap",
+    "year": "2011-08-08T07:00:00Z",
+    "filename": "03 Ni__as in Paris.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Ni__as%20in%20Paris.m4a"
+  },
+  {
+    "title": "Maldito Duende",
+    "artist": "Héroes del Silencio",
+    "album": "Héroes del Silencio: The Platinum Collection",
+    "duration": 253,
+    "genre": "Alternativa y rock en español",
+    "year": "1990-05-04T12:00:00Z",
+    "filename": "1-03 Maldito Duende.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-03%20Maldito%20Duende.m4a"
+  },
+  {
+    "title": "It Takes Time to Build (With Skit)",
+    "artist": "Beastie Boys",
+    "album": "To the 5 Boroughs (Deluxe Version)",
+    "duration": 191,
+    "genre": "Hip-hop/Rap",
+    "year": "2004-06-15T12:00:00Z",
+    "filename": "04 It Takes Time to Build (With Skit.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20It%20Takes%20Time%20to%20Build%20(With%20Skit.m4a"
+  },
+  {
+    "title": "Thought Control",
+    "artist": "Uone",
+    "album": "Phantom Whistler - Chapter 2 - EP",
+    "duration": 488,
+    "genre": "Ambient",
+    "year": "2023-04-21T12:00:00Z",
+    "filename": "03 Thought Control.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Thought%20Control.m4a"
+  },
+  {
+    "title": "Everybody's Gotta Live",
+    "artist": "Love",
+    "album": "Found Love: The Lost '71 Sessions",
+    "duration": 243,
+    "genre": "Pop",
+    "year": "1971-01-01T12:00:00Z",
+    "filename": "03 Everybody's Gotta Live.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Everybody's%20Gotta%20Live.m4a"
+  },
+  {
+    "title": "Rocket Man (I Think It's Going to Be a Long Long Time)",
+    "artist": "Elton John",
+    "album": "Honky Château (Bonus Track Version)",
+    "duration": 281,
+    "genre": "Pop",
+    "year": "1972-04-17T08:00:00Z",
+    "filename": "05 Rocket Man (I Think It's Going to.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Rocket%20Man%20(I%20Think%20It's%20Going%20to.m4a"
+  },
+  {
+    "title": "Tiny Dancer (Remastered)",
+    "artist": "Elton John",
+    "album": "Diamonds",
+    "duration": 375,
+    "genre": "Pop",
+    "year": "1971-11-05T12:00:00Z",
+    "filename": "1-02 Tiny Dancer (Remastered).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-02%20Tiny%20Dancer%20(Remastered).m4a"
+  },
+  {
+    "title": "Don't Go to Strangers",
+    "artist": "J.J. Cale",
+    "album": "Naturally",
+    "duration": 143,
+    "genre": "Rock",
+    "year": "1971-12-01T12:00:00Z",
+    "filename": "03 Don't Go to Strangers.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Don't%20Go%20to%20Strangers.m4a"
+  },
+  {
+    "title": "Trabajador@s",
+    "artist": "Los Chikos del Maíz",
+    "album": "Miedo y Asco en Valencia - EP",
+    "duration": 367,
+    "genre": "Hip-hop",
+    "year": "2005-06-01T12:00:00Z",
+    "filename": "04 Trabajador@s.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Trabajador@s.m4a"
+  },
+  {
+    "title": "Quit This Town",
+    "artist": "Eddie & The Hot Rods",
+    "album": "Do Anything You Wanna Do: The Best Of",
+    "duration": 146,
+    "genre": "Pop",
+    "year": "1977-12-16T12:00:00Z",
+    "filename": "2-03 Quit This Town.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/2-03%20Quit%20This%20Town.m4a"
+  },
+  {
+    "title": "Gente V.I.P.",
+    "artist": "Los Chikos del Maíz",
+    "album": "Pasión de Talibanes",
+    "duration": 293,
+    "genre": "Hip-hop/Rap",
+    "year": "2011-05-31T12:00:00Z",
+    "filename": "04 Gente V.I.P..m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Gente%20V.I.P..m4a"
+  },
+  {
+    "title": "Donde Duele Inspira",
+    "artist": "Flowklorikos",
+    "album": "Donde Duele Inspira",
+    "duration": 216,
+    "genre": "Hip-hop/Rap",
+    "year": "2007-02-13T12:00:00Z",
+    "filename": "03 Donde Duele Inspira.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Donde%20Duele%20Inspira.m4a"
+  },
+  {
+    "title": "Simple Man",
+    "artist": "Lynyrd Skynyrd",
+    "album": "The Essential Lynyrd Skynyrd",
+    "duration": 357,
+    "genre": "Rock",
+    "year": "1973-08-13T12:00:00Z",
+    "filename": "1-06 Simple Man.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-06%20Simple%20Man.m4a"
+  },
+  {
+    "title": "De Acero",
+    "artist": "Extremoduro",
+    "album": "Iros Todos a Tomar por Culo",
+    "duration": 224,
+    "genre": "Alternativa y rock en español",
+    "year": "1997-04-21T07:00:00Z",
+    "filename": "03 De Acero.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20De%20Acero.m4a"
+  },
+  {
+    "title": "Hate It Or Love It (feat. 50 Cent)",
+    "artist": "The Game",
+    "album": "The Documentary",
+    "duration": 206,
+    "genre": "Hip-hop/Rap",
+    "year": "2005-01-18T12:00:00Z",
+    "filename": "04 Hate It Or Love It (feat. 50 Cent.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Hate%20It%20Or%20Love%20It%20(feat.%2050%20Cent.m4a"
+  },
+  {
+    "title": "Correcaminos (Estate Al Loro)",
+    "artist": "Extremoduro",
+    "album": "Iros Todos a Tomar por Culo",
+    "duration": 168,
+    "genre": "Alternativa y rock en español",
+    "year": "1997-04-21T07:00:00Z",
+    "filename": "04 Correcaminos (Estate Al Loro).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Correcaminos%20(Estate%20Al%20Loro).m4a"
+  },
+  {
+    "title": "Actin Crazy",
+    "artist": "Action Bronson",
+    "album": "Mr. Wonderful",
+    "duration": 239,
+    "genre": "Hip-hop/Rap",
+    "year": "2015-01-20T08:00:00Z",
+    "filename": "04 Actin Crazy.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Actin%20Crazy.m4a"
+  },
+  {
+    "title": "Concrete Schoolyard",
+    "artist": "Jurassic 5",
+    "album": "J 5 (Deluxe Edition)",
+    "duration": 321,
+    "genre": "Hip-hop/Rap",
+    "year": "1998-06-01T07:00:00Z",
+    "filename": "1-05 Concrete Schoolyard.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-05%20Concrete%20Schoolyard.m4a"
+  },
+  {
+    "title": "Battle Cry (feat. Apathy, King Syze, Crypt the Warchild, Des Devious, Esoteric, Chief Kamachi, Planetary, Celph Titled & Vinnie Paz)",
+    "artist": "Army of the Pharaohs",
+    "album": "Jedi Mind Tricks Presents the Best of Army of the Pharaohs",
+    "duration": 366,
+    "genre": "Hip-hop",
+    "year": "2006-03-21T12:00:00Z",
+    "filename": "1-01 Battle Cry (feat. Apathy, King.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-01%20Battle%20Cry%20(feat.%20Apathy,%20King.m4a"
+  },
+  {
+    "title": "La Hoguera",
+    "artist": "Extremoduro",
+    "album": "Iros Todos a Tomar por Culo",
+    "duration": 255,
+    "genre": "Alternativa y rock en español",
+    "year": "1997-04-21T07:00:00Z",
+    "filename": "05 La Hoguera.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20La%20Hoguera.m4a"
+  },
+  {
+    "title": "Attak (feat. Danny Brown)",
+    "artist": "Rustie",
+    "album": "Green Language",
+    "duration": 181,
+    "genre": "Electronic",
+    "year": "2014-08-25T12:00:00Z",
+    "filename": "06 Attak (feat. Danny Brown).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/06%20Attak%20(feat.%20Danny%20Brown).m4a"
+  },
+  {
+    "title": "Rain or Shine",
+    "artist": "Young Fathers",
+    "album": "White Men Are Black Men Too",
+    "duration": 229,
+    "genre": "Alternative",
+    "year": "2015-04-03T12:00:00Z",
+    "filename": "05 Rain or Shine.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Rain%20or%20Shine.m4a"
+  },
+  {
+    "title": "Work, Pt. II (feat. Gang Starr)",
+    "artist": "Big L",
+    "album": "The Danger Zone (Deluxe Edition) [Remastered]",
+    "duration": 185,
+    "genre": "Hip-hop/Rap",
+    "year": "2011-05-31T12:00:00Z",
+    "filename": "05 Work, Pt. II (feat. Gang Starr).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Work,%20Pt.%20II%20(feat.%20Gang%20Starr).m4a"
+  },
+  {
+    "title": "Harder Than You Think",
+    "artist": "Public Enemy",
+    "album": "How You Sell Soul to a Soulless People Who Sold Their Soul? (Audio Version)",
+    "duration": 249,
+    "genre": "Hip-hop/Rap",
+    "year": "2007-08-07T07:00:00Z",
+    "filename": "03 Harder Than You Think.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Harder%20Than%20You%20Think.m4a"
+  },
+  {
+    "title": "El Día de la Bestia (feat. Alber Pla)",
+    "artist": "Extremoduro",
+    "album": "Agila",
+    "duration": 284,
+    "genre": "Alternativa y rock en español",
+    "year": "1996-02-23T08:00:00Z",
+    "filename": "05 El Día de la Bestia (feat. Alber.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20El%20Día%20de%20la%20Bestia%20(feat.%20Alber.m4a"
+  },
+  {
+    "title": "Sucede",
+    "artist": "Extremoduro",
+    "album": "Agila",
+    "duration": 187,
+    "genre": "Alternativa y rock en español",
+    "year": "1996-02-23T08:00:00Z",
+    "filename": "03 Sucede.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Sucede.m4a"
+  },
+  {
+    "title": "The Ghost Inside",
+    "artist": "Broken Bells",
+    "album": "Broken Bells",
+    "duration": 198,
+    "genre": "Alternative",
+    "year": "2010-03-05T12:00:00Z",
+    "filename": "04 The Ghost Inside.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20The%20Ghost%20Inside.m4a"
+  },
+  {
+    "title": "Forjado a Fuego",
+    "artist": "Los Chikos del Maíz",
+    "album": "Comancheria",
+    "duration": 334,
+    "genre": "Hip-hop/Rap",
+    "year": "2019-07-12T12:00:00Z",
+    "filename": "03 Forjado a Fuego.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Forjado%20a%20Fuego.m4a"
+  },
+  {
+    "title": "A los Hijos Que Nunca Tendremos",
+    "artist": "Sons of Aguirre & Scila",
+    "album": "Vamos a Morir Todos",
+    "duration": 283,
+    "genre": "Metal",
+    "year": "2022-02-18T12:00:00Z",
+    "filename": "06 A los Hijos Que Nunca Tendremos.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/06%20A%20los%20Hijos%20Que%20Nunca%20Tendremos.m4a"
+  },
+  {
+    "title": "Yo No Sé Pero Sé",
+    "artist": "Residente & SFDK",
+    "album": "LAS LETRAS YA NO IMPORTAN",
+    "duration": 343,
+    "genre": "Urbano latino",
+    "year": "2024-02-22T12:00:00Z",
+    "filename": "04 Yo No Sé Pero Sé.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Yo%20No%20Sé%20Pero%20Sé.m4a"
+  },
+  {
+    "title": "Rhyme the Rhyme Well",
+    "artist": "Beastie Boys",
+    "album": "To the 5 Boroughs (Deluxe Version)",
+    "duration": 167,
+    "genre": "Hip-hop/Rap",
+    "year": "2004-06-15T12:00:00Z",
+    "filename": "05 Rhyme the Rhyme Well.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Rhyme%20the%20Rhyme%20Well.m4a"
+  },
+  {
+    "title": "The Boss",
+    "artist": "Ayax y Prok",
+    "album": "Le cri de la Rue",
+    "duration": 142,
+    "genre": "Hip-hop/Rap",
+    "year": "2021-10-25T12:00:00Z",
+    "filename": "03 The Boss.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20The%20Boss.m4a"
+  },
+  {
+    "title": "Blue Blood",
+    "artist": "Heinz Kiessling",
+    "album": "It's Always Sunny In Philadelphia (Music from the Original TV Series)",
+    "duration": 173,
+    "genre": "Soundtrack",
+    "year": "2010-09-01T12:00:00Z",
+    "filename": "03 Blue Blood.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Blue%20Blood.m4a"
+  },
+  {
+    "title": "Morning Sun",
+    "artist": "Al Barry",
+    "album": "Al Barry & Friends (Deluxe Edition) - EP",
+    "duration": 176,
+    "genre": "Reggae",
+    "year": "1990-01-01T12:00:00Z",
+    "filename": "03 Morning Sun.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Morning%20Sun.m4a"
+  },
+  {
+    "title": "Spanish Flea",
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "album": "!!Going Places!!",
+    "duration": 126,
+    "genre": "Jazz",
+    "year": "1965-09-01T12:00:00Z",
+    "filename": "04 Spanish Flea.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Spanish%20Flea.m4a"
+  },
+  {
+    "title": "Do Anything You Wanna Do",
+    "artist": "Eddie & The Hot Rods",
+    "album": "Do Anything You Wanna Do: The Best Of",
+    "duration": 244,
+    "genre": "Pop",
+    "year": "1999-09-19T12:00:00Z",
+    "filename": "2-01 Do Anything You Wanna Do.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/2-01%20Do%20Anything%20You%20Wanna%20Do.m4a"
+  },
+  {
+    "title": "Another Brick In the Wall, Pt. 2",
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "duration": 228,
+    "genre": "Rock",
+    "year": "1979-11-23T08:00:00Z",
+    "filename": "1-05 Another Brick In the Wall, Pt..m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-05%20Another%20Brick%20In%20the%20Wall,%20Pt..m4a"
+  },
+  {
+    "title": "Funky Kingston",
+    "artist": "Toots & The Maytals",
+    "album": "Funky Kingston",
+    "duration": 293,
+    "genre": "Reggae",
+    "year": "1973-01-01T12:00:00Z",
+    "filename": "03 Funky Kingston.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Funky%20Kingston.m4a"
+  },
+  {
+    "title": "No Pasarán",
+    "artist": "Los Chikos del Maíz",
+    "album": "Comancheria",
+    "duration": 303,
+    "genre": "Hip-hop/Rap",
+    "year": "2019-09-13T12:00:00Z",
+    "filename": "05 No Pasarán.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20No%20Pasarán.m4a"
+  },
+  {
+    "title": "The Grid (Remixed by The Crystal Method)",
+    "artist": "The Crystal Method & Daft Punk",
+    "album": "TRON: Legacy Reconfigured",
+    "duration": 267,
+    "genre": "Soundtrack",
+    "year": "2011-04-04T12:00:00Z",
+    "filename": "03 The Grid (Remixed by The Crystal.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20The%20Grid%20(Remixed%20by%20The%20Crystal.m4a"
+  },
+  {
+    "title": "La vida es bella (de la película \"La vida es bella”)",
+    "artist": "Michele Garruti",
+    "album": "La Grand Mùsica del Cine (Mùsica de Pèliculas Para Piano Solo)",
+    "duration": 190,
+    "genre": "Soundtrack",
+    "year": "2013-11-12T12:00:00Z",
+    "filename": "05 La vida es bella (de la película.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20La%20vida%20es%20bella%20(de%20la%20película.m4a"
+  },
+  {
+    "title": "Praise The Lord (Da Shine) [feat. Skepta]",
+    "artist": "A$AP Rocky",
+    "album": "TESTING",
+    "duration": 205,
+    "genre": "Hip-hop/Rap",
+    "year": "2018-05-25T12:00:00Z",
+    "filename": "05 Praise The Lord (Da Shine) [feat..m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Praise%20The%20Lord%20(Da%20Shine)%20[feat..m4a"
+  },
+  {
+    "title": "Glock 19",
+    "artist": "Ameer Vann",
+    "album": "EMMANUEL - EP",
+    "duration": 192,
+    "genre": "Hip-hop",
+    "year": "2019-09-18T12:00:00Z",
+    "filename": "03 Glock 19.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Glock%2019.m4a"
+  },
+  {
+    "title": "Real G's (feat. Snoop Dogg)",
+    "artist": "Funk Flex & Big Kap",
+    "album": "The Tunnel",
+    "duration": 226,
+    "genre": "Hip-hop/Rap",
+    "year": "1999-01-01T12:00:00Z",
+    "filename": "05 Real G's (feat. Snoop Dogg).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Real%20G's%20(feat.%20Snoop%20Dogg).m4a"
+  },
+  {
+    "title": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+    "artist": "Gunna",
+    "album": "WUNNA",
+    "duration": 197,
+    "genre": "Hip-hop/Rap",
+    "year": "2020-05-22T12:00:00Z",
+    "filename": "05 DOLLAZ ON MY HEAD (feat. Young Th.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20DOLLAZ%20ON%20MY%20HEAD%20(feat.%20Young%20Th.m4a"
+  },
+  {
+    "title": "La Gran Evasión (From \"La Gran Evasión\")",
+    "artist": "Orquesta Herman Helmer",
+    "album": "Marchas de Películas",
+    "duration": 121,
+    "genre": "Soundtrack",
+    "year": "1988-08-08T12:00:00Z",
+    "filename": "05 La Gran Evasión (From _La Gran Ev.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20La%20Gran%20Evasión%20(From%20_La%20Gran%20Ev.m4a"
+  },
+  {
+    "title": "Rawnald Gregory Erickson the Second",
+    "artist": "STRFKR",
+    "album": "Starfucker",
+    "duration": 173,
+    "genre": "Alternative",
+    "year": "2008-09-23T07:00:00Z",
+    "filename": "05 Rawnald Gregory Erickson the Seco.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Rawnald%20Gregory%20Erickson%20the%20Seco.m4a"
+  },
+  {
+    "title": "Hip To Be Square",
+    "artist": "Huey Lewis and the News",
+    "album": "Fore!",
+    "duration": 245,
+    "genre": "Rock",
+    "year": "1986-08-20T07:00:00Z",
+    "filename": "05 Hip To Be Square.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Hip%20To%20Be%20Square.m4a"
+  },
+  {
+    "title": "Llueve Sobre Mojado",
+    "artist": "Fito Páez & Joaquín Sabina",
+    "album": "Esencial Joaquín Sabina",
+    "duration": 330,
+    "genre": "Pop",
+    "year": "1998-06-02T12:00:00Z",
+    "filename": "1-17 Llueve Sobre Mojado.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-17%20Llueve%20Sobre%20Mojado.m4a"
+  },
+  {
+    "title": "Tales from the East",
+    "artist": "Marlowe, L'Orange & Solemn Brigham",
+    "album": "Marlowe",
+    "duration": 155,
+    "genre": "Hip-hop",
+    "year": "2018-07-13T12:00:00Z",
+    "filename": "05 Tales from the East.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Tales%20from%20the%20East.m4a"
+  },
+  {
+    "title": "Too Many Chiefs (Not Enough Indians)",
+    "artist": "Brant Bjork",
+    "album": "Jalamanta",
+    "duration": 225,
+    "genre": "Rock",
+    "year": "1999-01-01T12:00:00Z",
+    "filename": "04 Too Many Chiefs (Not Enough India.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Too%20Many%20Chiefs%20(Not%20Enough%20India.m4a"
+  },
+  {
+    "title": "El Tonto del Pueblo",
+    "artist": "Rafael Amor",
+    "album": "Personajes",
+    "duration": 310,
+    "genre": "Raíces",
+    "year": "1978-01-01T12:00:00Z",
+    "filename": "04 El Tonto del Pueblo.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20El%20Tonto%20del%20Pueblo.m4a"
+  },
+  {
+    "title": "O.P.P",
+    "artist": "Naughty By Nature",
+    "album": "Naughty by Nature",
+    "duration": 271,
+    "genre": "Hardcore Rap ",
+    "year": "1991-08-24T12:00:00Z",
+    "filename": "03 O.P.P.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20O.P.P.m4a"
+  },
+  {
+    "title": "Little by Little",
+    "artist": "Lane 8",
+    "album": "Little by Little",
+    "duration": 333,
+    "genre": "Electronic",
+    "year": "2018-01-19T12:00:00Z",
+    "filename": "05 Little by Little.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Little%20by%20Little.m4a"
+  },
+  {
+    "title": "Casino",
+    "artist": "Ayax y Prok, FERNANDOCOSTA & Israel B",
+    "album": "Le cri de la Rue",
+    "duration": 180,
+    "genre": "Hip-hop/Rap",
+    "year": "2021-10-25T12:00:00Z",
+    "filename": "05 Casino.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Casino.m4a"
+  },
+  {
+    "title": "We In Here (feat. The Ruff Ryders)",
+    "artist": "Funk Flex & Big Kap",
+    "album": "The Tunnel",
+    "duration": 263,
+    "genre": "Hip-hop/Rap",
+    "year": "1999-01-01T12:00:00Z",
+    "filename": "03 We In Here (feat. The Ruff Ryders.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20We%20In%20Here%20(feat.%20The%20Ruff%20Ryders.m4a"
+  },
+  {
+    "title": "Yo la quiero mamá",
+    "artist": "Ayax y Prok",
+    "album": "Le cri de la Rue",
+    "duration": 178,
+    "genre": "Hip-hop/Rap",
+    "year": "2021-01-07T12:00:00Z",
+    "filename": "04 Yo la quiero mamá.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Yo%20la%20quiero%20mamá.m4a"
+  },
+  {
+    "title": "The Great Song of Indifference",
+    "artist": "Bob Geldof",
+    "album": "Loudmouth - The Best of Bob Geldof & The Boomtown Rats",
+    "duration": 275,
+    "genre": "Rock",
+    "year": "1994-01-01T12:00:00Z",
+    "filename": "04 The Great Song of Indifference.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20The%20Great%20Song%20of%20Indifference.m4a"
+  },
+  {
+    "title": "Ante Up (Robbin Hoodz Theory)",
+    "artist": "M.O.P.",
+    "album": "Warriorz",
+    "duration": 248,
+    "genre": "Hip-hop/Rap",
+    "year": "2000-10-09T12:00:00Z",
+    "filename": "04 Ante Up (Robbin Hoodz Theory).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Ante%20Up%20(Robbin%20Hoodz%20Theory).m4a"
+  },
+  {
+    "title": "Douha Alia",
+    "artist": "Cheb Mami",
+    "album": "Let Me Rai",
+    "duration": 257,
+    "genre": "Pop",
+    "year": "1990-01-01T08:00:00Z",
+    "filename": "04 Douha Alia.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/04%20Douha%20Alia.m4a"
+  },
+  {
+    "title": "U.O.E.N.O. (feat. Rick Ross & Future)",
+    "artist": "Rocko",
+    "album": "Gift of Gab 2 (Deluxe Edition)",
+    "duration": 259,
+    "genre": "Hip-hop/Rap",
+    "year": "2013-03-05T12:00:00Z",
+    "filename": "03 U.O.E.N.O. (feat. Rick Ross & Fut.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20U.O.E.N.O.%20(feat.%20Rick%20Ross%20&%20Fut.m4a"
+  },
+  {
+    "title": "It's Been a Long Time",
+    "artist": "Rakim",
+    "album": "The 18th Letter - The Book of Life",
+    "duration": 237,
+    "genre": "Hip-hop/Rap",
+    "year": "1997-11-04T12:00:00Z",
+    "filename": "1-04 It's Been a Long Time.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/1-04%20It's%20Been%20a%20Long%20Time.m4a"
+  },
+  {
+    "title": "Day 2: Birdsong",
+    "artist": "Ludovico Einaudi",
+    "album": "Seven Days Walking: Day 2",
+    "duration": 325,
+    "genre": "Classical",
+    "year": "2019-04-19T12:00:00Z",
+    "filename": "05 Day 2_ Birdsong.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Day%202_%20Birdsong.m4a"
+  },
+  {
+    "title": "Hold On, I'm Coming",
+    "artist": "Sam & Dave",
+    "album": "Sweat 'N' Soul: An Anthology (1965-1971)",
+    "duration": 155,
+    "genre": "R&B/Soul",
+    "year": "1966-03-01T08:00:00Z",
+    "filename": "05 Hold On, I'm Coming.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Hold%20On,%20I'm%20Coming.m4a"
+  },
+  {
+    "title": "Down Under",
+    "artist": "Men At Work",
+    "album": "Business As Usual",
+    "duration": 222,
+    "genre": "Rock",
+    "year": "1981-11-09T08:00:00Z",
+    "filename": "03 Down Under.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/03%20Down%20Under.m4a"
+  },
+  {
+    "title": "Nice For What",
+    "artist": "Drake",
+    "album": "Scorpion",
+    "duration": 210,
+    "genre": "Hip-hop/Rap",
+    "year": "2018-04-06T07:00:00Z",
+    "filename": "2-04 Nice For What.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/2-04%20Nice%20For%20What.m4a"
+  },
+  {
+    "title": "Discovery At Night",
+    "artist": "Ludovico Einaudi",
+    "album": "In a Time Lapse",
+    "duration": 265,
+    "genre": "Crossover clásico",
+    "year": "2013-01-01T12:00:00Z",
+    "filename": "05 Discovery At Night.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Discovery%20At%20Night.m4a"
+  },
+  {
+    "title": "Ni Estabas Ni Estarás",
+    "artist": "Nach",
+    "album": "Mejor Que el Silencio",
+    "duration": 213,
+    "genre": "Urbano latino",
+    "year": "2011-01-01T12:00:00Z",
+    "filename": "05 Ni Estabas Ni Estarás.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Ni%20Estabas%20Ni%20Estarás.m4a"
+  },
+  {
+    "title": "Últimamente",
+    "artist": "Jarfaiter, Geckodelarue & Dj Big Bro",
+    "album": "No Soy Nadie",
+    "duration": 237,
+    "genre": "Rap",
+    "year": "2024-01-26T12:00:00Z",
+    "filename": "05 Últimamente.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_002/main/05%20Últimamente.m4a"
+  }
+]
